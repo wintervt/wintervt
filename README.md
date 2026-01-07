@@ -20,4 +20,3 @@ I’m a Full Stack Dev with the core focus of Laravel and Vue.
 ## 🤝 Connect With Me
 
 - 💼 LinkedIn: https://www.linkedin.com/in/milan-toth-6748a0116/
-- 🧑‍💻 GitHub: https://github.com/wintervt
